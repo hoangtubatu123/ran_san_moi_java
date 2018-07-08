@@ -1,0 +1,5 @@
+Cuong 1 300
+Hieu 2 200
+cuong 1 100
+cuong 1 200
+hai 1 400
